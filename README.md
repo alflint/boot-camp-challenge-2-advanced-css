@@ -1,5 +1,7 @@
 # Challenge 2: Advanced CSS
 
+[Deployed URL](https://alflint.github.io/boot-camp-challenge-2-advanced-css/)
+
 ## User Story
 
 ```
